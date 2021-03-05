@@ -1,7 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (KernelCheatUM.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  main.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 60 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  KernelCheatUM.vcxproj -> C:\Users\super\Desktop\Apex Cheat\x64\Release\Usermode.exe
