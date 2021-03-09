@@ -124,7 +124,7 @@ bool write(UINT_PTR write_address, const S& value)
 
 DWORD64 GetEntityById(int Ent, DWORD64 Base)
 {
-	DWORD64 EntityList = Base + 0x18c62f8;
+	DWORD64 EntityList = Base + 0x18da2a8;
 	DWORD64 BaseEntity = Read<DWORD64>(EntityList);
 	if (!BaseEntity) //done
 		return NULL;
