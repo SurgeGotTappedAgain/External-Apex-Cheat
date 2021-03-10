@@ -15,3 +15,7 @@ my discord if you have issue :  $urge got tapped#4481
 
 if your on 2004 download the supported kdmapper found on the interwebs somewhere.. not rocket science ;)
 enjoy 
+
+updated to new game version
+status: Undetected (0 ban reports past week)
+small bugs fixed
