@@ -17,5 +17,7 @@ if your on 2004 download the supported kdmapper found on the interwebs somewhere
 enjoy 
 
 updated to new game version
+
 status: Undetected (0 ban reports past week)
+
 small bugs fixed
