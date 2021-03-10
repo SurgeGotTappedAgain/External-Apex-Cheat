@@ -11,7 +11,7 @@ driver is indeed public/open source (anyone can use it) made by null, so plz don
 glow was made by @AdrianVPL, any p2c use this or skidded version's of it. myself put this together too provide a simple cheat people can use while it stays UD
 if your any good with function hooking in kernel you could possibly make this a better driver.
 
-my discord if you have issue :  $urge got tapped#4481
+message me on discord for new updates!: red.#7353
 
 if your on 2004 download the supported kdmapper found on the interwebs somewhere.. not rocket science ;)
 enjoy 
