@@ -1,7 +1,4 @@
 # External-Apex-Cheat
-Support + Updates
-https://discord.gg/W7wpVsaRNV
-
 Install WDK
 1) Build in Release x64
 2) Map driver using KDMapper
