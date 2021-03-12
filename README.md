@@ -1,4 +1,5 @@
 # External-Apex-Cheat
+update: changed function hook, so no more bsod's.
 Install WDK
 1) Build in Release x64
 2) Map driver using KDMapper
