@@ -1,5 +1,5 @@
 # External-Apex-Cheat
-update: changed function hook, so no more bsod's.
+update: fixed blue-screens and usermode closing.
 
 Install WDK
 1) Build in Release x64
