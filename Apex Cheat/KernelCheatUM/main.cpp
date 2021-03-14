@@ -7,7 +7,8 @@
 #include <vector>
 #include <string>
 using namespace std;
-HWND hWnd;
+LPCTSTR WindowName = "Apex Legends";
+HWND hWnd = FindWindow(NULL, WindowName);
 
 typedef struct _NULL_MEMORY
 {
@@ -151,14 +152,15 @@ void EnableHighlight(DWORD64 Entity, float r, float g, float b) {
 
 int main()
 {
-	if (hWnd == 0)
+	if (hWnd)
 	{
-		hWnd = FindWindow(NULL, "Apex Legends"); // find apex men
 		cout << "[+] Found Apex" << endl; // print it ;)
 	}
 	else
 	{
 		cout << "[-] Couldn't Find Apex" << endl;
+		Sleep(5000);
+		exit(0);
 	}
 
 	Sleep(2000);
