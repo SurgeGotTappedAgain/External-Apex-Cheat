@@ -8,7 +8,8 @@
 #include "offsets.h"
 #include <string>
 using namespace std;
-HWND hWnd;
+LPCTSTR WinName = "Apex Legends";
+HWND hWnd = FindWindow(NULL, WinName);
 uintptr_t pID;
 
 uintptr_t moduleBase;
@@ -157,9 +158,8 @@ void EnableHighlight(DWORD64 Entity, float r, float g, float b)
 
 int main()
 {
-	if (hWnd == 0)
+	if (hWnd)
 	{
-		hWnd = FindWindow(NULL, "Apex Legends"); // find apex men
 		cout << "[+] Found Apex" << endl; // print it ;)
 	}
 	else
