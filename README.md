@@ -1,7 +1,7 @@
 # External-Apex-Cheat
 update: fixed blue-screens and usermode closing.
 
-update 2: Fixed Glow flicking and random crashes..
+update 2: Fixed Glow flickering and random crashes..
 
 Install WDK
 1) Build in Release x64
