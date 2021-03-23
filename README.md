@@ -1,9 +1,7 @@
 # External-Apex-Cheat
-update: fixed blue-screens and usermode closing.
 
-update 2: Fixed Glow flickering and random crashes..
-
-news: Game Updated + Ban Wave. possible detection (use at own risk)
+update : added new function hook and updated offsets (use at own risk)
+multiple ban reports within last 12hrs
 
 Install WDK
 1) Build in Release x64
