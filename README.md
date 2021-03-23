@@ -3,6 +3,8 @@ update: fixed blue-screens and usermode closing.
 
 update 2: Fixed Glow flickering and random crashes..
 
+news: Game Updated + Ban Wave. possible detection (use at own risk)
+
 Install WDK
 1) Build in Release x64
 2) Map driver using KDMapper
