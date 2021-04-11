@@ -21,6 +21,6 @@ enjoy
 
 updated to new game version
 
-status: Undetected (0 ban reports past week)
+status: Testing (Multiple Ban Reports)
 
 small bugs fixed
